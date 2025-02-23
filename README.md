@@ -1,1 +1,1 @@
-# Algorithmization-Programming
+# Algorithmization-Programming The second semester
